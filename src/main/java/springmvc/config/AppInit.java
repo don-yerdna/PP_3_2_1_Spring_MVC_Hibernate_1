@@ -2,7 +2,6 @@ package springmvc.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-import javax.swing.*;
 
 public class AppInit extends AbstractAnnotationConfigDispatcherServletInitializer {
     @Override
